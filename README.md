@@ -52,6 +52,8 @@ Computer Science and Engineering Student.
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="100" height="100">
 
 
+
+
 ## 🛠️ Workspace Specs
 
 ### GitHub Stats
@@ -61,4 +63,4 @@ Computer Science and Engineering Student.
 ![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=Poonga1505&theme=dark)
 
 ### GitHub Activity
-[![Poonga's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Poonga1505&bg_color=000000&color=ffffff&
+[![Poonga's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Poonga1505&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/Poonga1505/github-readme-activity-graph)
